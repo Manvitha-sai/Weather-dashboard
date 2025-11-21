@@ -1,7 +1,7 @@
 To get started with this Django weather dashboard:
 
 1.First, set up your Django project:
-pip install django requests
+pip install django requests, 
 django-admin startproject weather_project, 
 cd weather_project, 
 python manage.py startapp weather_app
